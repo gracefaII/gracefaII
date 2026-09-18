@@ -12,7 +12,7 @@ bpd ,‎ ‎  iwc ,‎ ‎  no ttgs</br>
 </br>
 </br>
 </br>
-<img src="https://file.garden/aMgUcRUKRz6fCUd5/dcl64p.png" height="200" align="center">  <img src="https://file.garden/aMgUcRUKRz6fCUd5/e29tta.png" height="56"  align="center">  <img src="https://file.garden/aMgUcRUKRz6fCUd5/4rl1h6.png" height="900"  align="center">
+<img src="https://file.garden/aMgUcRUKRz6fCUd5/dcl64p.png" height="100" align="center">  <img src="https://file.garden/aMgUcRUKRz6fCUd5/e29tta.png" height="56"  align="center">  <img src="https://file.garden/aMgUcRUKRz6fCUd5/4rl1h6.png" height="100"  align="center">
 </br>
 </br>
 </br>
