@@ -6,9 +6,9 @@
 </br>
 </br>
 </br>
- 𑣲₍ ᐢ. .ᐢ₎‎ ‎  ${\textsf{\color{#a97aa3} Shelby }}$ or ${\textsf{\color{#a9a2a5} Ivory }}$ .. Shi/Hir</br>
-18yo. ‎ ‎ ‎  . ۫ ꣑ৎ   . ‎ ‎ ‎   French-Canadian</br>
-bpd ,‎ ‎  iwc ,‎ ‎  no ttgs</br>
+ 𑣲₍ ᐢ. .ᐢ₎‎ ‎  ${\textsf{\color{#a97aa3} Shelby }}$ or ${\textsf{\color{#a9a2a5} Ivory }}$  ‎  ˶ ‎  ‎ Shi/Hir</br>
+18yo. ‎ ‎ ‎  . ۫ ꣑ৎ   . ‎ ‎ ‎   ${\textsf{\color{#482578} French }}$ - Canadian</br>
+${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no ttgs ‎ ‎ ‎ ${\textsf{\color{#482578} ⊹ }}$ ࣪ ˖ ${\textsf{\color{#a97aa3} ໒꒱ }}$ </br>
 </br>
 </br>
 </br>
