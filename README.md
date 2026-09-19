@@ -19,7 +19,9 @@ ${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no 
 </br>
 <img src="https://files.catbox.moe/c2a2ys.png#right" width="300" align="center">
 <img src="https://files.catbox.moe/s7bu02.png" width="530" align="right" >
+<p align="left">
 ${\textsf{\color{#a97aa3} lyric lyric lyric lyric lryic. . . }}$ </br>
+<p align="center">
 </br>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ${\textsf{\color{#482578}. . lyric lyric lyric lyric lryic }}$ </br>
 </br>
@@ -28,7 +30,6 @@ ${\textsf{\color{#a97aa3} lyric lyric lyric lyric lryic. . . }}$ </br>
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=r50omvhsrl8w858a7wx8gqxox&cover_image=false&theme=default&show_offline=false&background_color=0e1218&interchange=false&profanity=false&hide_remaster=false&bar_color=aa7ba4&bar_color_cover=false" width="250" >
   </a>
-</p>
 
 </br>
 </br>
