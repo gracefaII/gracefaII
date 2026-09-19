@@ -1,4 +1,4 @@
- <p align="center">
+ <p align="left">
 <img src="https://files.catbox.moe/xt3iy5.png#right" width="990"  align="right">
  </br>
 <img src="https://files.catbox.moe/9ix2wu.png#left" width="500" align="left">
@@ -18,7 +18,6 @@ ${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no 
 </br>
 </br>
 <img src="https://files.catbox.moe/c2a2ys.png#right" width="300" align="center">
-
 <img src="https://files.catbox.moe/3f6vpl.png" width="600" align="right" >
 
 ${\textsf{\color{#a97aa3} lyric lyric lyric lyric lryic. . . }}$ </br>
