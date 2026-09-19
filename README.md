@@ -21,6 +21,35 @@ ${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no 
 
 <img src="https://files.catbox.moe/3f6vpl.png" width="600" align="right" >
 
-test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi 
-
+${\textsf{\color{#a97aa3} lyric lyric lyric lyric lryic. . . }}$ </br>
+</br>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ${\textsf{\color{#482578}. . lyric lyric lyric lyric lryic }}$ </br>
+</br>
+</br>
+</br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r50omvhsrl8w858a7wx8gqxox&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=aa7ba4&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</br>
+</br>
+</br>
+shout out to  ${\textsf{\color{#a97aa3} my }}$ awesome ${\textsf{\color{#a9a2a5} oomfs }}$ ! <3 
+</br>
+</br>
+</br>
+@oomf  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ @oomf</br>
+</br>
+ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ @oomf</br>
+</br>
+ @oomf ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ @oomf</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+@witheringheights was [#here](https://github.com/witheringheights)
 <img src="https://files.catbox.moe/u0y0aq.png#right" width="990" slign="right">
