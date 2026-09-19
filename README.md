@@ -18,7 +18,7 @@ ${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no 
 </br>
 </br>
 <img src="https://files.catbox.moe/c2a2ys.png#right" width="300" align="center">
-<img src="https://files.catbox.moe/d9nhdy.png" width="600" align="right" >
+<img src="https://files.catbox.moe/s7bu02.png" width="530" align="right" >
 <p align="left">
 ${\textsf{\color{#a97aa3} lyric lyric lyric lyric lryic. . . }}$ </br>
 </br>
