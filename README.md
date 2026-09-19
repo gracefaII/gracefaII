@@ -1,4 +1,4 @@
- <p align="left">
+ <p align="center">
 <img src="https://files.catbox.moe/xt3iy5.png#right" width="990"  align="right">
  </br>
 <img src="https://files.catbox.moe/9ix2wu.png#left" width="500" align="left">
@@ -26,7 +26,6 @@ ${\textsf{\color{#a97aa3} lyric lyric lyric lyric lryic. . . }}$ </br>
 </br>
 </br>
 </br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r50omvhsrl8w858a7wx8gqxox&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=aa7ba4&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </br>
 </br>
 </br>
