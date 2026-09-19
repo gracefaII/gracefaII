@@ -8,8 +8,9 @@
 </br>
  𑣲₍ ᐢ. .ᐢ₎‎ ‎  ${\textsf{\color{#a97aa3} Shelby }}$ or ${\textsf{\color{#a9a2a5} Ivory }}$  ‎  ˶ ‎  ‎ Shi/Hir</br>
 18yo. ‎ ‎ ‎  . ۫ ꣑ৎ   . ‎ ‎ ‎   ${\textsf{\color{#482578} French }}$ - Canadian</br>
-${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no ttgs ‎ ‎ ‎ ${\textsf{\color{#482578} ⊹ }}$ ࣪ ˖ ${\textsf{\color{#a97aa3} ໒꒱ }}$ </br>
+${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no ${\textsf{\color{#a97aa3} ttgs }}$ ‎ ‎ ‎ ${\textsf{\color{#482578} ⊹ }}$ ࣪ ˖ ${\textsf{\color{#a97aa3} ໒꒱ }}$ </br>
 </br>
+.  ${\textsf{\color{#482578}6w5}}$ ₍ᐢ·͈༝·͈ᐢ₎ so/sx ${\textsf{\color{#a9a2a5}621}}$ ‎  
 </br>
 </br>
 <img src="https://file.garden/aMgUcRUKRz6fCUd5/dcl64p.png" height="100" align="center">  <img src="https://file.garden/aMgUcRUKRz6fCUd5/e29tta.png" height="56"  align="center">  <img src="https://file.garden/aMgUcRUKRz6fCUd5/4rl1h6.png" height="100"  align="center">
@@ -19,5 +20,7 @@ ${\textsf{\color{#a9a2a5}bpd}}$  ‎  ༚ ‎ ‎  iwc  ‎  ༚ ‎‎ ‎  no 
 <img src="https://files.catbox.moe/c2a2ys.png#right" width="300" align="center">
 
 <img src="https://files.catbox.moe/3f6vpl.png" width="600" align="right" >
+
+test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi test text hi 
 
 <img src="https://files.catbox.moe/u0y0aq.png#right" width="990" slign="right">
