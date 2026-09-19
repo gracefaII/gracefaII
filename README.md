@@ -26,8 +26,6 @@ ${\textsf{\color{#a97aa3} lyric lyric lyric lyric lryic. . . }}$ </br>
 </br>
 </br>
 </br>
-
-<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=r50omvhsrl8w858a7wx8gqxox&cover_image=false&theme=default&show_offline=false&background_color=0e1218&interchange=false&profanity=false&hide_remaster=false&bar_color=aa7ba4&bar_color_cover=false" width="250" >
   </a>
